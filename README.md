@@ -3,7 +3,7 @@ Java game in which player clicks on black screen that slowly uncovers an image, 
 
 Project split into three classes: RandomImage.java, RectangleCover.java, scratchImage.java
 
-1) RandomImage.java selected a random image from a list to show behind the black screen
+1) RandomImage.java selects a random image from a list to show behind the black screen
 
 2) RectangleCover.java uses a double for loop to cover screen with black squares
 
