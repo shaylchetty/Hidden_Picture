@@ -16,4 +16,4 @@ https://user-images.githubusercontent.com/102982612/181085204-4d6c1f4b-65bb-4ed2
 
 This was my first computer science project (excuding visual programming of course!). 
 
-Coded as the final project for my 9th grade Alice and Java course
+Coded as the final project for 9th grade Alice and Java course
